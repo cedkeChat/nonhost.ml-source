@@ -6,9 +6,23 @@ __________________________________________________________
 this is the source code of the site nonhost.ml (2022-2023)
 # Hidden files
 __________________________________________________________
-The logo:
-http://nonhost.ml/launcher/2vl_logo.png
+# The logo and sound:
 
-http://nonhost.ml/launcher/2ph_logo.png
+http://nonhost.ml/launcher/2vl_logo.png (Vulcain)
 
-http://nonhost.ml/launcher/2tr_logo.png
+http://nonhost.ml/launcher/2ph_logo.png (Phantom)
+
+http://nonhost.ml/launcher/2tr_logo.png (Trinity)
+
+http://nonhost.ml/launcher/bg.ogg
+
+# payload
+
+http://nonhost.ml/bo2/code550.bin
+
+http://nonhost.ml/payload.elf
+
+http://nonhost.ml/launcher.elf (which also works under WiiUGameHacking)
+
+http://nonhost.ml/SDL_Install__.rpx (menu where you choose which mod menu you want)
+
