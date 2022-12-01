@@ -44,3 +44,18 @@ http://nonhost.ml/adil.php
 http://nonhost.ml/lto.php
 
 for the website by the way which is http://nonhost.ml/Rambo.php
+
+and also they put their release in their website so their homebrew app with the meta.xml + the icon and the SDL_Installer.rpx this time
+
+http://nonhost.ml/meta.xml
+http://nonhost.ml/icon.png
+http://nonhost.ml/SDL_Installer.rpx
+
+also found weird leases LMAO
+
+http://nonhost.ml/version
+http://nonhost.ml/online
+http://nonhost.ml/update
+
+and a last one chose a small memory of the former nonhost launcher in image
+http://nonhost.ml/bo2/unique.png
