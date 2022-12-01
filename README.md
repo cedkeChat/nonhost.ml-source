@@ -31,3 +31,15 @@ http://nonhost.ml/SDL_Install__.rpx (menu where you choose which mod menu you wa
 http://51.91.56.16:80
 
 51.91.56.16 + :80
+
+# how does their launcher work?
+
+just with codes it is used for the code550.bin, the payload.elf and the launcher.elf for which launches a web link and not a file on SD with the libcurl which is a lib to launch .elf in a web link
+
+so basically with wiiuhaxx files + index-hax.php files will launch the code550.bin and code550.bin will go to the payload.elf with this link in the source http://nonhost.ml/payload.elf and the payload. elf will launch in its source this link http://nonhost.ml/launcher.elf and one last time the launcher.elf will launch this address in its source which is http://SDL_Install__.rpx
+
+when we are on the SDL we go to Phantom, Vulcain and trinity to launch them they use a file to launch the mods menu without .elf for example for trinity when we are going to launch it it will launch the "adilmc.php" and launch the trinity file with code in UTF-8 I believe. well the same thing for Phantom and Vulcain.
+http://nonhost.ml/adilmc.php
+http://nonhost.ml/adil.php
+http://nonhost.ml/lto.php
+
